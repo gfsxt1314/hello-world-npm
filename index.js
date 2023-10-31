@@ -1,5 +1,5 @@
 function helloWorld() {
-  console.log('Hello World!V1');
+  console.log('Hello World!2V');
 }
 
 module.exports = {
