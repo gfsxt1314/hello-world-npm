@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Codertocat/hello-world-npm#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "@gfsxt:registry": "https://npm.pkg.github.com/"
   }
 }
