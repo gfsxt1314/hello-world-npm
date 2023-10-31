@@ -1,6 +1,6 @@
 {
   "name": "@gfsxt1314/hello-world-npm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple npm package to demonstrate GitHub Package Registry",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Codertocat/hello-world-npm#readme",
   "publishConfig": {
-    "@gfsxt:registry": "https://npm.pkg.github.com/"
+    "@gfsxt1314:registry": "https://npm.pkg.github.com/"
   }
 }
